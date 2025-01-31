@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bev Gagnon
 - 👀 I’m interested in hiking, running, backpacking, camping, and learning code
-- 🌱 I’m currently learning how to set up an online portfolio
+- 🌱 I’m currently learning on Analyst Builder
 - 💞️ I’m looking to collaborate on job searching
 - 📫 How to reach me beverly.gagnon@snhu.edu
 - 😄 Pronouns: she/her
